@@ -1,0 +1,2 @@
+this is common file
+these are new contents added in issue 2
